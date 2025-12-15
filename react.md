@@ -65,5 +65,3 @@ To helo you get your feet wet and get you familiar with our contribution porcess
 React is [MIT licensed](https://github.com/facebook/react/blob/main/LICENSE).
 
 
-以上内容均为我本人Canyon通过模仿https://github.com/facebook/react该网站上对于React的介绍进行的markdown源代码编写，内容涵盖附链接、编排、字体等，用于检验我对于markdown程序语言的理解和增加工具包，总所周知，markdown作为一种简单高效的程序语言，经常被程序员用于文字的编排，通常用于替代word文档。
-请你检查该作业。并且给我简单介绍以下React这个东西
